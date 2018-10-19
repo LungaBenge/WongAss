@@ -1,0 +1,5 @@
+RabbitMq LogIn:
+User: Guest
+Password: Guest
+
+
